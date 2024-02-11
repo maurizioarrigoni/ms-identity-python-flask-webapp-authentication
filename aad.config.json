@@ -5,9 +5,9 @@
     "framework": "FLASK"
     },
 "client": {
-    "client_id": "{enter-your-client-id-here}",
-    "client_credential": "{enter-your-client-secret-here}",
-    "authority": "https://login.microsoftonline.com/{enter-your-tenant-id-here}"
+    "client_id": "8b1be802-71be-460b-99ed-4a85af262492",
+    "client_credential": "Nfc8Q~M7o3p3dD1eVFx2a2VQnNq~L2UbNOAUhdmi",
+    "authority": "https://login.microsoftonline.com/430f1f9c-adc6-435f-aa3a-d756ef94794d"
     },
 "auth_request": {
     "redirect_uri": null,
